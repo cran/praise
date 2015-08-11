@@ -1,0 +1,17 @@
+5efb80cff0fbeb96646c52b60c0f5697 *DESCRIPTION
+8cff75b73749151ff48afea63ed20f50 *LICENSE
+2b68a15753515e12bb444a8784e7b7e6 *NAMESPACE
+1fc3816ff80eeb0d2766069782b2d5d4 *R/adjective.R
+b7caf9f026b204337d23d4fb1ad5b7f3 *R/adverb.R
+7e92705c0df6066d621d02e4c5b07008 *R/exclamation.R
+ef7e5b33817c1765e7818b08cbe878b9 *R/package.R
+86706bdfe21f28cda666bc0f318b5192 *R/rpackage.R
+bf71014fe84832e955871c40d892841e *R/verb.R
+104b43a7414eeb73afc5f408f76d9163 *inst/NEWS.md
+53bbc41b4e7063dbcee23b6a9b422a18 *inst/README.Rmd
+b49a6ea823437620cbadaef9f6e7cad8 *inst/README.md
+1f84d50a76b97cdc28160e0747b9d848 *man/praise.Rd
+7e0fb2829957438f66cb847a10c20a27 *man/praise_parts.Rd
+0820649b37143bc02ed23383d159de9f *tests/testthat.R
+8b37808072a6f1e363ad0d5b4f79eee8 *tests/testthat/helper.R
+84d37154d3ac296e6b6e2d7a4a6e957b *tests/testthat/test.R
