@@ -17,6 +17,7 @@ adjective <- c(
   "cat's pajamas",
   "classy",
   "cool",
+  "crackalackin'",
   "dandy",
   "dazzling",
   "delightful",
